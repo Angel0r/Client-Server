@@ -1,4 +1,3 @@
-//package ClientThread;
 
 import java.io.*;
 import java.net.*;
